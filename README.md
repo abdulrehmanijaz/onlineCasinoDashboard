@@ -78,7 +78,13 @@ OnlineCasino Dashboard is a React project that serves as a comprehensive dashboa
 ## Getting Started
 
 To run the OnlineCasino Dashboard locally, follow these steps:
+## Requirements
+Node.js and npm installed
 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/abdulrehmanijaz/OnlineCasino-Dashboard.git
+
+## Contact
+For inquiries or support, please contact abdulrehmanijaz at abdulrehmanijaz2@gmail.com.
+
